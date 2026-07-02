@@ -1,0 +1,4 @@
+model,total_params_mean,trainable_params_mean,latency_ms_per_image_mean,latency_ms_per_image_std,n_seeds,additional_total_params_vs_prior,additional_trainable_params_vs_prior
+Prior Fusion,91919575.0,91919575.0,20.32633322083181,3.633061339665004,3,0.0,0.0
+RG-MF,91919720.0,91919720.0,20.384487841670307,2.0838322633196915,3,145.0,145.0
+ViT Image-Only,85997319.0,85997319.0,18.484169975001425,0.8546251866224405,3,-5922256.0,-5922256.0
