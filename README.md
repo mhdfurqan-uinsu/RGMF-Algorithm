@@ -117,7 +117,7 @@ The prior multimodal fusion pipeline that combines image features and metadata w
 
 The proposed Reliability-Gated Multimodal Fusion framework. RG-MF estimates sample-wise metadata reliability from availability and plausibility cues and uses the reliability score to gate the metadata representation before multimodal fusion.
 
-### 4.4 Rule-Based (r^*) Gate
+### 4.4 Rule-Based (r*) Gate
 
 A direct diagnostic baseline where the metadata-quality proxy (r^*) itself is used as the sample-wise metadata gate. This baseline is included to test whether the learned reliability module provides value beyond a predefined quality rule.
 
